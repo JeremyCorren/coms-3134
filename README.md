@@ -5,4 +5,5 @@ Contents
 - my-linked-list
 - expression-tree
 - two-stack-queue
+- avl-map
 - create-index
