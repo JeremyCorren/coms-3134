@@ -1,9 +1,9 @@
 # coms-3134
-programming projects in data structures and algorithms in java
+Programming projects for COMS W3134: Data Structures in Java
 
 Contents
-- my-linked-list
-- expression-tree
-- two-stack-queue
-- avl-map
-- create-index
+- MyLinkedList
+- ExpressionTree
+- TwoStackQueue
+- AvlMap
+- CreateIndex
