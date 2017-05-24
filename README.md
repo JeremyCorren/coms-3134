@@ -1,5 +1,5 @@
-# coms-3134
-Programming projects for COMS W3134: Data Structures in Java
+# Algorithms
+Data structures and algorithms in Java
 
 Contents
 - MyLinkedList
